@@ -4,7 +4,7 @@ State of the art Chinese Word Segmentation with Bi-LSTMs (Ji Ma, Kuzman Ganchev 
 
 ## Compatibility
 
-Python3.6.X,&nbsp;&nbsp;Tensorflow 12.0
+Python3.6.X,&nbsp;&nbsp;Tensorflow 1.12.0
 
 ## Notes
 
